@@ -26,7 +26,9 @@ SECRET_KEY = '+mnjjm!-93i-^@b+z+k#pa%0a3v4@8-s_pd@e+$$)&w(sj&c%w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'roonsine.pythonanywhere.com'
+]
 
 
 # Application definition
